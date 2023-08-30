@@ -46,4 +46,5 @@ For any inquiries or potential collaborations, feel free to reach out via GitHub
 
 # Visualization
 ![pie analysis](https://github.com/BendelHybrid/Pie-Day-Sales-Analysis/assets/63473719/cba6f936-be55-433f-9c3e-ad78f536063e)
+![pie2](https://github.com/BendelHybrid/Pie-Day-Sales-Analysis/assets/63473719/bc9c5aef-4558-405a-949d-908a41cc94f1)
 
