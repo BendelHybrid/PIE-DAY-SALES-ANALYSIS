@@ -1,0 +1,1 @@
+The project aims to provide insights into the trends, preferences, and potential growth of pie sales. By analyzing sales data across years and flavors, the repository offers actionable insights for optimizing pie offerings and sales strategies.
