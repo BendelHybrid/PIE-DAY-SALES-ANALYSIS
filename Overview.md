@@ -1,0 +1,1 @@
+This GitHub repository showcases an analysis of pie sales records from 2019 to 2021, dubbed "Pi(e) Day Analysis." The analysis delves into various aspects of pie sales, including total revenue, flavor preferences, product types, organic pie impact, day-wise sales, and future sales predictions.
